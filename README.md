@@ -1,5 +1,3 @@
-# ts-express
-ExpressJS with typescript. It contains the initial boilerplate code for running a full fledged typescript project. Auth module is default integrated and can be easily customize accordingly  
 ## Tools
 - Typescript
 - Javascript
